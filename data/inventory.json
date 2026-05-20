@@ -1,0 +1,20 @@
+{
+    "PROD001": {
+        "product_id": "PROD001",
+        "name": "Enterprise Cloud Server Pack",
+        "price": 1200.0,
+        "stock": 6
+    },
+    "PROD002": {
+        "product_id": "PROD002",
+        "name": "Premium API Gateway Token",
+        "price": 150.5,
+        "stock": 20
+    },
+    "PROD003": {
+        "product_id": "PROD003",
+        "name": "Machine Learning Compute Node",
+        "price": 4500.0,
+        "stock": 0
+    }
+}
