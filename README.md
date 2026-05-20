@@ -11,7 +11,7 @@ A clean-architecture, production-grade backend engine designed to manage high-vo
 * **Data Resilience & Persistence:** Features an automated local JSON database file management system layer capable of handling read/write lifecycles cleanly with fault-tolerant exception handling.
 
 ## 🛠️ Technology Stack & Concepts
-* **Language:** Python 3.10+
+* **Language:** Python 3.14
 * **Concurrency Model:** `concurrent.futures.ThreadPoolExecutor` (Worker Pool pattern)
 * **Resource Synchronization:** `threading.Lock`
 * **Data Layer:** Localized Structured File-System JSON Storage
